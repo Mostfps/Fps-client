@@ -1,44 +1,44 @@
-🚀 FPS Boost Client – Read Me
-Welcome to the FPS Boost Client – your new secret weapon for smooth, lag-free gaming! 🎮✨
+🚀 𝗙𝗣𝗦 𝗕𝗼𝗼𝘀𝘁 𝗖𝗹𝗶𝗲𝗻𝘁 – 𝗥𝗲𝗮𝗱 𝗠𝗲  
+Welcome to the **FPS Boost Client** – your new secret weapon for smooth, lag-free gaming! 🎮✨
 
-🔧 What It Does:
-✅ Optimizes Windows for gaming
-✅ Disables unnecessary background services
-✅ Boosts CPU priority for games
-✅ Frees up RAM for better performance
-✅ Tweaks registry & system settings (safe & reversible)
-✅ Cleans up temporary files slowing you down
+━━━━━━━━━━━━━━━━━━━━━  
+🔧 𝗪𝗵𝗮𝘁 𝗜𝘁 𝗗𝗼𝗲𝘀:
+✅ Optimizes Windows for gaming  
+✅ Disables unnecessary background services  
+✅ Boosts CPU priority for games  
+✅ Frees up RAM for better performance  
+✅ Tweaks registry & system settings (safe & reversible)  
+✅ Cleans up temporary files slowing you down  
 
-🛠️ How to Use:
-Run as Administrator (Right-click → Run as admin)
+━━━━━━━━━━━━━━━━━━━━━  
+🛠️ 𝗛𝗼𝘄 𝘁𝗼 𝗨𝘀𝗲:
 
-Follow the simple instructions in the tool
+1️⃣ Run as **Administrator** (Right-click → Run as admin)  
+2️⃣ Follow the simple steps in the tool  
+3️⃣ Restart your PC for full effect  
+4️⃣ Launch your favorite game and enjoy the FPS boost! 🎉  
 
-Restart your PC for full effect
+━━━━━━━━━━━━━━━━━━━━━  
+🛡️ 𝗜𝘀 𝗶𝘁 𝘀𝗮𝗳𝗲?
 
-Launch your favorite game and enjoy the FPS boost! 🎉
+✅ No malware  
+✅ No viruses  
+✅ No hidden installs  
+✅ 100% safe & performance-based changes  
+✅ Restore option available (if included)  
 
-🛡️ Is it safe?
-Yes! 💯
+━━━━━━━━━━━━━━━━━━━━━  
+⚠️ 𝗡𝗼𝘁𝗲:
 
-No malware
+⚡ Best results on **low to mid-end PCs**  
+📦 Use at your own risk – always back up important data  
+🎮 Not affiliated with any game companies  
 
-No viruses
+━━━━━━━━━━━━━━━━━━━━━  
+💬 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗼𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁?
 
-No hidden installs
+📲 Join our Discord: [https://discord.gg/HpcjEJbMGU]  
+We're here to help and answer your questions!
 
-All changes are performance-based and safe
-
-Restore option available (if included)
-
-⚠️ Note:
-Best results on low to mid-end PCs
-
-Use at your own risk – though the tool is tested, always back up important data
-
-Not affiliated with any game companies
-
-💬 Questions or Support?
-Join our Discord or contact us via [https://discord.gg/HpcjEJbMGU] – we're here to help!
-
-🔥 Boost your FPS. Level up your gameplay. Dominate the server. 💪
+━━━━━━━━━━━━━━━━━━━━━  
+🔥 **Boost your FPS. Level up your gameplay. Dominate the server.** 💪
