@@ -3,7 +3,8 @@ Welcome to the **FPS Boost Client** – your ultimate tool to unlock true gaming
 No more stutters, no more lag – just pure, smooth gameplay like never before.  
 Whether you're grinding in **Minecraft**, clutching in **Fortnite**, or spraying in **CS:GO** – we've got your back. 💯
 
-━━━━━━━━━━━━━━━━━━━━━  
+━━━━━━━━━━━━━━━━━━━━━  ![image](https://github.com/user-attachments/assets/782ab5e4-862b-4ebe-800e-a799ddf25113)
+
 🔧 𝗪𝗵𝗮𝘁 𝗜𝘁 𝗗𝗼𝗲𝘀:
 
 ✅ Optimizes Windows settings for **maximum gaming performance**  
